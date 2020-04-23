@@ -14,7 +14,7 @@
             case "localhost":
             case "192.168.2.98":
             case "24.187.197.234":
-            case "battaglia.ddns.net":
+            case "ACws.glitch.me":
                 OkToProcessRequest = true;
                 break;
         }
